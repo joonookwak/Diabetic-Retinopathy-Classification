@@ -1,4 +1,5 @@
 ## Diabetic Retinopathy Classification: F1-Score Optimization
+[![Kaggle](https://img.shields.io/badge/Kaggle-In--Class_Contest-blue?logo=kaggle)](https://www.kaggle.com/competitions/imen-415-glm-contest-s-26/overview)
 
 ### 📌 Project Overview
 
